@@ -1,4 +1,4 @@
-package org.delta.web.ucase.test.constants;
+package org.delta.web.ucase.constants;
 
 public interface BSConfigurationConstants {
 

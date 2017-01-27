@@ -1,10 +1,10 @@
-package org.delta.web.ucase.test.util;
+package org.delta.web.ucase.util;
 
 import java.util.LinkedList;
 import java.util.Properties;
 
+import org.delta.web.ucase.constants.BSConfigurationConstants;
 import org.delta.web.ucase.custom.CustomBase;
-import org.delta.web.ucase.test.constants.BSConfigurationConstants;
 import org.openqa.selenium.Platform;
 import org.openqa.selenium.remote.DesiredCapabilities;
 

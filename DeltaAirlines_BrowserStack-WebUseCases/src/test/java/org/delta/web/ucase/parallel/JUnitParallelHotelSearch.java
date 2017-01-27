@@ -4,9 +4,9 @@ import java.net.URL;
 import java.util.LinkedList;
 import java.util.Properties;
 
+import org.delta.web.ucase.constants.BSConfigurationConstants;
 import org.delta.web.ucase.custom.CustomBase;
-import org.delta.web.ucase.test.constants.BSConfigurationConstants;
-import org.delta.web.ucase.test.util.CommonUtils;
+import org.delta.web.ucase.util.CommonUtils;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

@@ -1,4 +1,4 @@
-package org.delta.web.ucase.test.handler;
+package org.delta.web.ucase.handler;
 
 import java.util.Scanner;
 
