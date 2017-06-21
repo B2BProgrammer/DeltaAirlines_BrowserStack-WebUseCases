@@ -9,7 +9,8 @@ import java.util.Properties;
 /**
  * @author A.Ajjarani
  * 
- * Custom Base Class - Where the generic functions for all classes are implemented *
+ * Custom Base Class - Where the generic functions for all classes are implemented 
+ * *
  */
 public abstract class CustomBase {
 	
