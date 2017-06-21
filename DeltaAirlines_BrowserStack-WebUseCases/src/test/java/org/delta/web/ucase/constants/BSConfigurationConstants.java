@@ -3,6 +3,7 @@ package org.delta.web.ucase.constants;
 public interface BSConfigurationConstants {
 
 	// Connection Configuration + EndPoint URL
+	
 	String BS_DELTA_CON_TYPE = "CONNECTION_TYPE";
 	String	BS_DELTA_USERNAME = "USERNAME";
 	String BS_DELTA_AUTOMATE_KEY = "AUTOMATE_KEY";
